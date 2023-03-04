@@ -1,0 +1,4 @@
+__pycache__/
+
+# models are over 100 MB
+models/
