@@ -8,7 +8,7 @@ sub-domain:            Sentiment Analysis
 problem category:      Binary Classification
 approach:              NLTK VADER
                        Textblob
-                       Pre-trained Model + Fine Tunning*
+                       Pre-trained Model + Fine Tuning*
 model:                 ROBERTa
 evaluation metric:     Accuracy
 score:                 0.941
